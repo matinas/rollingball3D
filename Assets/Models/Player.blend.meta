@@ -1,0 +1,143 @@
+fileFormatVersion: 2
+guid: dc4a6b1a492ebda4a918c8a49bd7224c
+ModelImporter:
+  serializedVersion: 16
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Player
+    100004: Player_cell
+    100006: Player_cell_001
+    100008: Player_cell_002
+    100010: Player_cell_003
+    100012: Player_cell_004
+    100014: Player_cell_005
+    100016: Player_cell_006
+    100018: Player_cell_007
+    100020: Player_cell_008
+    100022: Player_cell_009
+    100024: Player_cell_010
+    100026: Player_cell_011
+    100028: Player_cell_012
+    100030: Player_cell_013
+    100032: Player_cell_014
+    400000: //RootNode
+    400002: Player
+    400004: Player_cell
+    400006: Player_cell_001
+    400008: Player_cell_002
+    400010: Player_cell_003
+    400012: Player_cell_004
+    400014: Player_cell_005
+    400016: Player_cell_006
+    400018: Player_cell_007
+    400020: Player_cell_008
+    400022: Player_cell_009
+    400024: Player_cell_010
+    400026: Player_cell_011
+    400028: Player_cell_012
+    400030: Player_cell_013
+    400032: Player_cell_014
+    2300000: Player
+    2300002: Player_cell
+    2300004: Player_cell_001
+    2300006: Player_cell_002
+    2300008: Player_cell_003
+    2300010: Player_cell_004
+    2300012: Player_cell_005
+    2300014: Player_cell_006
+    2300016: Player_cell_007
+    2300018: Player_cell_008
+    2300020: Player_cell_009
+    2300022: Player_cell_010
+    2300024: Player_cell_011
+    2300026: Player_cell_012
+    2300028: Player_cell_013
+    2300030: Player_cell_014
+    3300000: Player
+    3300002: Player_cell
+    3300004: Player_cell_001
+    3300006: Player_cell_002
+    3300008: Player_cell_003
+    3300010: Player_cell_004
+    3300012: Player_cell_005
+    3300014: Player_cell_006
+    3300016: Player_cell_007
+    3300018: Player_cell_008
+    3300020: Player_cell_009
+    3300022: Player_cell_010
+    3300024: Player_cell_011
+    3300026: Player_cell_012
+    3300028: Player_cell_013
+    3300030: Player_cell_014
+    4300000: Player_cell_014
+    4300002: Player_cell_013
+    4300004: Player_cell_012
+    4300006: Player_cell_011
+    4300008: Player_cell_010
+    4300010: Player_cell_009
+    4300012: Player_cell_008
+    4300014: Player_cell_007
+    4300016: Player_cell_006
+    4300018: Player_cell_005
+    4300020: Player_cell_004
+    4300022: Player_cell_003
+    4300024: Player_cell_002
+    4300026: Player_cell_001
+    4300028: Player_cell
+    4300030: Player
+    7400000: Default Take
+    9500000: //RootNode
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: .5
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  additionalBone: 0
+  userData: 
